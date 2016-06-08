@@ -1,0 +1,17 @@
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.Productos.resources
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\bin\Debug\Presentacion.exe
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\bin\Debug\Logica.dll
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\bin\Debug\ClassLibrary1.dll
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\bin\Debug\Logica.pdb
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\bin\Debug\ClassLibrary1.pdb
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.exe
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.pdb
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.Catalogo.resources
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.Alumno.resources
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.Asignatura.resources
+c:\users\cpsi\documents\visual studio 2010\Projects\ClassLibrary1\Presentacion\obj\x86\Debug\Presentacion.Docente.resources
